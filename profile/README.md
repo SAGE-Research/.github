@@ -34,7 +34,6 @@ Website: [sage.org.ai](https://sage.org.ai/)
 - [SAGE GitHub Manager](https://github.com/SAGE-Research/sage-github-manager)
 - [SAGE Intent Library](https://github.com/SAGE-Research/sage-libs-intent)
 - [SAGE Mate](https://github.com/SAGE-Research/sage-mate)
-- [SAGE Flow](https://github.com/SAGE-Research/sageFlow)
 - [SAGE Refiner](https://github.com/SAGE-Research/sageRefiner)
 - [SAGE PyPI](https://github.com/SAGE-Research/sagepypi)
 - [SAGE Wiki](https://github.com/SAGE-Research/sage-wiki)
@@ -48,6 +47,10 @@ Website: [sage.org.ai](https://sage.org.ai/)
 - [Refiner Benchmark](https://github.com/SAGE-Research/sage-refiner-benchmark)
 - [Wiki-link Retrieval](https://github.com/SAGE-Research/wiki-link-retrieval)
 - [Neuromem Benchmark](https://github.com/SAGE-Research/neuromem-bench)
+
+### Achievements
+
+- [Demonstrating SAGE](https://sage.org.ai/achievements/) - accepted ICPP 2026 demonstration of SAGE's modular, controllable, and transparent dataflow-native reasoning framework.
 
 ## Project Graduation
 
