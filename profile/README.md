@@ -50,7 +50,19 @@ Website: [sage.org.ai](https://sage.org.ai/)
 
 ### Achievements
 
-- [Demonstrating SAGE](https://sage.org.ai/achievements/) - accepted ICPP 2026 demonstration of SAGE's modular, controllable, and transparent dataflow-native reasoning framework.
+- [Complete publication timeline](https://sage.org.ai/achievements/) - published
+  work, public evidence, corresponding repositories, and explicitly labeled
+  author-reported acceptances.
+- [SAGE](https://openreview.net/forum?id=TXcFJdT7at) - ICML 2026
+  dataflow-native framework for modular, controllable, and transparent
+  LLM-augmented reasoning.
+- [Neuromem](https://openreview.net/forum?id=mO7DgwFFVe) - ICML 2026
+  benchmark and lifecycle decomposition for external memory in LLM systems.
+- [FlowRAG](https://doi.org/10.1145/3774904.3792361) - WWW 2026 continual
+  retriever adaptation for evolving corpora.
+- [Demonstrating SAGE](https://sage.org.ai/achievements/) - ICPP 2026 demo
+  acceptance reported by the authors; the public program or proceedings record
+  is pending.
 
 ## Project Graduation
 
